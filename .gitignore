@@ -46,3 +46,5 @@ Temporary Items
 ## Afegit per Josep
 node_modules
 npm-debug.log
+quiz.sqlite
+.env
